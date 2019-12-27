@@ -1,0 +1,20 @@
+{
+  "name": "signal-server",
+  "version": "1.0.0",
+  "description": "webrtc signal service",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "signal-service"
+  ],
+  "author": "vigneswaran",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "npm": "^6.13.4",
+    "ws": "^7.2.1"
+  }
+}
